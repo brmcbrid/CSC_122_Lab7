@@ -1,5 +1,5 @@
-# Tests for Lab5
-# Falling Distance Calculator
+# Tests for Lab7
+# Substitution Cipher
 
 import os.path
 import sys
